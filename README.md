@@ -31,7 +31,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ### 🌿 EcoRuta
 * **Descripción:** Aplicación enfocada en la planificación y optimización de rutas ecológicas y sostenibles, diseñada para fomentar una movilidad eficiente y reducir el impacto ambiental en los desplazamientos urbanos.
-* **Tecnologías:** `JavaScript`, `TypeScript`, `HTML5`, `TailwindCSS`, `APIs Geoespaciales`.
+* **Tecnologías utilizadas y su aplicación:** Implementada empleando `JavaScript` y `TypeScript` para la lógica del cliente, estructurada con `HTML5` y estilizada mediante `TailwindCSS`. Se integraron `APIs Geoespaciales` para el cálculo dinámico de trayectos.
 * **Funcionalidades Principales:** 
   * Cálculo y visualización interactiva de trayectos de movilidad eficiente.
   * Enfoque en la sostenibilidad urbana y reducción de huella ambiental.
