@@ -8,6 +8,15 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ## Habilidades y tecnologías.
 
+| Categoría | Tecnologías / Herramientas |
+| :--- | :--- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+
+---
+
 ## Proyectos destacados.
 
 ## Contacto y Redes.
