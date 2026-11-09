@@ -12,8 +12,8 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 | :--- | :--- |
 | **Lenguajes** | `JavaScript`, `TypeScript`, `Java`, `Python`, `MySQL`, `C`, `Assembly x86` |
 | **Frontend** | `React`, `Next.js`, `HTML5`, `CSS3`, `Material UI` |
-|      |      |
-|      |      |
+| **Backend & Base de Datos** | `Node.js`, `PostgreSQL`, `Prisma ORM`, `Redis` |
+| **Herramientas & DevOps** | `Git`, `GitHub`, `Docker`, `Linux (WSL2)`, `Nginx`, `Figma`, `VS Code` |
 
 ---
 
