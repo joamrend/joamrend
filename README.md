@@ -7,6 +7,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 ---
 
 ## 🛠️ Habilidades y tecnologías.
+*Las siguientes herramientas, lenguajes, frameworks y librerías han sido aplicados directamente en el desarrollo y despliegue de los proyectos de ingeniería y sistemas web presentados en este portafolio.*
 
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
