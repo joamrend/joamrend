@@ -28,6 +28,15 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
   * Arquitectura full-stack robusta optimizada para entornos locales y producción.
 * **Enlaces:** (https://github.com/joamrend/CaterLinkSoftware)
 
+### EcoRuta
+* **Descripción:** Aplicación enfocada en la planificación y optimización de rutas ecológicas y sostenibles, diseñada para fomentar una movilidad eficiente y reducir el impacto ambiental en los desplazamientos urbanos.
+* **Tecnologías:** `JavaScript`, `TypeScript`, `HTML5`, `TailwindCSS`, `APIs Geoespaciales`.
+* **Funcionalidades Principales:** 
+  * Cálculo y visualización interactiva de trayectos de movilidad eficiente.
+  * Enfoque en la sostenibilidad urbana y reducción de huella ambiental.
+  * Interfaz optimizada y responsiva para una experiencia de usuario fluida.
+* **Enlaces:** (https://github.com/joamrend/ecoruta)
+
 ## Contacto y Redes.
 
 <!--
