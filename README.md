@@ -37,6 +37,15 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
   * Interfaz optimizada y responsiva para una experiencia de usuario fluida.
 * **Enlaces:** [Repositorio GitHub](https://github.com/joamrend/ecoruta)
 
+### 📄 docxMareMioGenerator
+* **Descripción:** Herramienta automatizada para la generación masiva y estructurada de documentos en formato Word (`.docx`), diseñada para agilizar reportes administrativos y operativos del entorno de MareMio.
+* **Tecnologías:** `JavaScript`, `TypeScript`, `Node.js`, `Librerías de manipulación de documentos`.
+* **Funcionalidades Principales:** 
+  * Automatización en la creación de archivos y reportes corporativos a partir de datos dinámicos.
+  * Optimización de los tiempos de respuesta administrativos y estandarización de plantillas.
+  * Integración fluida con flujos de trabajo de backend.
+* **Enlaces:** [Repositorio GitHub](https://github.com/joamrend/docxMareMioGenerator)
+
 ---
 
 ## 💼 Experiencia.
