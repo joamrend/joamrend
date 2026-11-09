@@ -53,4 +53,4 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ## 📫 Contacto y Redes.
 
-* 📧 **Correo electrónico:**: [joanmendoza51015@gmail.com](mailto:joanmendoza51015@gmail.com)
+* 📧 **Correo electrónico:**: [joamrend@espol.edu.ec](mailto:joamrend@espol.edu.ec)
