@@ -22,7 +22,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ### 🍽️ CaterLink
 * **Descripción:** Sistema web integral de inventario y gestión de pedidos diseñado para pequeños negocios de catering y restaurantes, enfocado en reducir el desperdicio de alimentos (*mermas*) y optimizar el control financiero.
-* **Tecnologías:** `Angular`, `TypeScript`, `Node.js`, `Express`, `Prisma ORM`, `PostgreSQL`, `TailwindCSS`.
+* **Tecnologías utilizadas y su aplicación:** Se utilizó `Angular` y `TypeScript` para construir una interfaz de usuario reactiva, impulsada en el backend por `Node.js` y `Express`. La persistencia de datos se gestionó modelando esquemas relacionales mediante `Prisma ORM` y `PostgreSQL`, mientras que el diseño visual se estructuró con `TailwindCSS`.
 * **Funcionalidades Principales:** 
   * Panel de control con métricas e indicadores de rendimiento (*dashboard*).
   * Gestión centralizada de pedidos de clientes y control de stock de insumos.
