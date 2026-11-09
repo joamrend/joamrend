@@ -1,4 +1,12 @@
-## Hi there 👋
+# JOAN MENDOZA RENDÓN
+
+### Computer Science Engineering & Full Stack Developer
+
+## Habilidades y tecnologías.
+
+## Proyectos destacados.
+
+## Contacto y Redes.
 
 <!--
 **joamrend/joamrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
