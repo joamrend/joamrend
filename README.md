@@ -2,6 +2,10 @@
 
 ### Computer Science Engineering & Full Stack Developer
 
+Estudiante de Ingeniería en Ciencias de la Computación con sólidos conocimientos en desarrollo web full-stack, análisis de datos y sistemas en la nube. Capacidad demostrada para resolver problemas complejos mediante programación eficiente y trabajo en equipo colaborativo.
+
+---
+
 ## Habilidades y tecnologías.
 
 ## Proyectos destacados.
