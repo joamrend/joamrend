@@ -26,7 +26,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
   * Panel de control con métricas e indicadores de rendimiento (*dashboard*).
   * Gestión centralizada de pedidos de clientes y control de stock de insumos.
   * Arquitectura full-stack robusta optimizada para entornos locales y producción.
-* **Enlaces:** (https://github.com/joamrend/CaterLinkSoftware)
+* **Enlaces:** [Repositorio GitHub](https://github.com/joamrend/CaterLinkSoftware)
 
 ### EcoRuta
 * **Descripción:** Aplicación enfocada en la planificación y optimización de rutas ecológicas y sostenibles, diseñada para fomentar una movilidad eficiente y reducir el impacto ambiental en los desplazamientos urbanos.
@@ -35,10 +35,10 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
   * Cálculo y visualización interactiva de trayectos de movilidad eficiente.
   * Enfoque en la sostenibilidad urbana y reducción de huella ambiental.
   * Interfaz optimizada y responsiva para una experiencia de usuario fluida.
-* **Enlaces:** (https://github.com/joamrend/ecoruta)
+* **Enlaces:** [Repositorio GitHub](https://github.com/joamrend/ecoruta)
 
 ---
 
 ## Contacto y Redes.
 
-* **Correo electrónico:**: [joanmendoza5626@gmail.com](mailto:joanmendoza5626@gmail.com)
+* **Correo electrónico:**: [joanmendoza51015@gmail.com](mailto:joanmendoza51015@gmail.com)
