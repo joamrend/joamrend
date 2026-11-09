@@ -40,7 +40,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ### 📄 docxMareMioGenerator
 * **Descripción:** Herramienta automatizada para la generación masiva y estructurada de documentos en formato Word (`.docx`), diseñada para agilizar reportes administrativos y operativos del entorno de MareMio.
-* **Tecnologías:** `JavaScript`, `TypeScript`, `Node.js`, `Librerías de manipulación de documentos`.
+* **Tecnologías utilizadas y su aplicación:** Desarrollada con `JavaScript`, `TypeScript` y `Node.js`, integrando librerías especializadas de manipulación de documentos para automatizar la creación de plantillas dinámicas en entornos de backend.
 * **Funcionalidades Principales:** 
   * Automatización en la creación de archivos y reportes corporativos a partir de datos dinámicos.
   * Optimización de los tiempos de respuesta administrativos y estandarización de plantillas.
