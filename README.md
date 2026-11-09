@@ -19,6 +19,15 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 
 ## Proyectos destacados.
 
+### CaterLink
+* **Descripción:** Sistema web integral de inventario y gestión de pedidos diseñado para pequeños negocios de catering y restaurantes, enfocado en reducir el desperdicio de alimentos (*mermas*) y optimizar el control financiero.
+* **Tecnologías:** `Angular`, `TypeScript`, `Node.js`, `Express`, `Prisma ORM`, `PostgreSQL`, `TailwindCSS`.
+* **Funcionalidades Principales:** 
+  * Panel de control con métricas e indicadores de rendimiento (*dashboard*).
+  * Gestión centralizada de pedidos de clientes y control de stock de insumos.
+  * Arquitectura full-stack robusta optimizada para entornos locales y producción.
+* **Enlaces:** (https://github.com/joamrend/CaterLinkSoftware)
+
 ## Contacto y Redes.
 
 <!--
