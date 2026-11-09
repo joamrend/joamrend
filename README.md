@@ -51,8 +51,8 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
 ## 💼 Experiencia.
 
 ### 💻 Desarrollador Web | MareMio Lunch S.A.S.
-- **Descripción:** Desarrollo de un sistema web integral orientado a la gestión eficiente de órdenes de comida, solicitudes de servicio y procesos administrativos.
-- **Responsabilidades y Logros:**
+* **Descripción:** Desarrollo de un sistema web integral orientado a la gestión eficiente de órdenes de comida, solicitudes de servicio y procesos administrativos.
+* **Responsabilidades y Logros:**
   * **Desarrollo Full-Stack:** Construcción de la arquitectura completa del sistema para optimizar los flujos operativos.
   * **Bases de Datos:** Diseño e implementación de una base de datos relacional robusta en PostgreSQL, asegurando la integridad y eficiencia en el manejo de la información}.
   * **Diseño UI/UX:** Creación de prototipos de alta fidelidad en Figma para definir el recorrido del usuario y presentar propuestas profesionales.
