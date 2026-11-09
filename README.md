@@ -37,7 +37,11 @@ Estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior 
   * Interfaz optimizada y responsiva para una experiencia de usuario fluida.
 * **Enlaces:** (https://github.com/joamrend/ecoruta)
 
+---
+
 ## Contacto y Redes.
+
+* **Correo electrónico:**: joanmendoza51015@gmail.com
 
 <!--
 **joamrend/joamrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
